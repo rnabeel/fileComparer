@@ -1,2 +1,3 @@
-First let the maven get its all dependencies
-once finished then run the JsonFileParserApplication 
+1. First let the maven get its all dependencies.
+2. Set file paths for both files in ReadJsons.java for file variable.
+3. Once finished then run the JsonFileParserApplication.
